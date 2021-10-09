@@ -1,1 +1,1 @@
-foo
+version 1
